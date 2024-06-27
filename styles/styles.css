@@ -95,3 +95,17 @@ body{
     color: var(--color-secundaria);
     font-family: var(--fuente-montserrat);
 }
+
+.presentacion__imagen{
+    width: 50%;
+}
+
+.footer{
+    color:var(--color-primaria);
+    background-color: var(--color-terciaria);
+    padding: 24px;
+    text-align: center;
+    font-family: var(--fuente-krona);
+    font-size: 1.5rem;
+    font-weight: 400;
+}
